@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "id": "depmify.elza-walker-story",
+  "name": "Elza Walker - Jill Story Skin",
+  "author": "Depmify",
+  "version": "1.0.0",
+  "description": "Adds Elza Walker from Resident Evil 1.5 as a selectable Jill skin in Story Mode. Keeps Jill's animations, action sounds and starting inventory. Original model: CAPCOM; source build: Team IGAS / MartinBiohazard (MZD).",
+  "compatibility": {
+    "requires": [
+      {
+        "capability": "story-skins",
+        "version": 1
+      }
+    ]
+  },
+  "categories": [
+    "Story Skins",
+    "Models"
+  ],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [],
+  "characters": [],
+  "storySkins": [
+    "skins/elza-walker.json"
+  ],
+  "roomVisuals": []
+}

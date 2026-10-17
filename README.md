@@ -12,7 +12,7 @@ Authors submit one folder per mod through a pull request. The folder contains th
 
 Published catalog: <https://depmify.github.io/Resident-Evil-SHATTERED-Mods/catalog.json>
 
-This repository starts with no published mods. Templates and examples are outside `mods/` and never appear in the in-game browser.
+Published mods live under `mods/`. Templates and examples are outside that directory and never appear in the in-game browser.
 
 ## First pilot mod
 
