@@ -1,0 +1,23 @@
+{
+  "formatVersion": 1,
+  "id": "snipz,leon",
+  "name": "Leon",
+  "author": "Snipz",
+  "version": "1.0.0",
+  "description": "Replaces Barry with Leon in Story Mode.",
+  "categories": ["Models", "Characters"],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [
+    { "target": "enemy/char12.emd", "source": "models/char10.emd", "mode": "all" },
+    { "target": "sound/chris01.wav", "source": "voices/damage-1.wav", "mode": "all" },
+    { "target": "sound/chris02.wav", "source": "voices/damage-2.wav", "mode": "all" },
+    { "target": "sound/chris03.wav", "source": "voices/grab-front.wav", "mode": "all" },
+    { "target": "sound/chris_ef01.wav", "source": "voices/damage-1.wav", "mode": "all" },
+    { "target": "sound/chris_ef02.wav", "source": "voices/damage-2.wav", "mode": "all" },
+    { "target": "sound/chris_ef03.wav", "source": "voices/grab-front.wav", "mode": "all" },
+    { "target": "sound/chris_ef04.wav", "source": "voices/death.wav", "mode": "all" },
+    { "target": "sound/chris04.wav", "source": "voices/death.wav", "mode": "all" }
+  ],
+  "characters": []
+}
