@@ -4,8 +4,8 @@
   "name": "Leon",
   "author": "Snipz",
   "version": "1.0.0",
-  "description": "Replaces Barry with Leon in Story Mode.",
-  "categories": ["Models", "Characters"],
+  "description": "Replaces Barry with Leon in Story Mode. Using my Leon model port to RE1 for Biorand with working Leon hurt sounds.",
+  "categories": ["Models", "Story Skins"],
   "preview": "preview.png",
   "dependencies": [],
   "overrides": [
