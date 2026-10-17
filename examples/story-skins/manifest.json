@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "id": "yourname.story-skins",
+  "name": "Your Story Skin Pack",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "description": "Adds selectable appearances for Jill and Barry in Story Mode.",
+  "compatibility": {
+    "requires": [
+      { "capability": "story-skins", "version": 1 },
+      { "capability": "story-skin-selection-text", "version": 1 }
+    ]
+  },
+  "categories": ["Story Skins", "Models"],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [],
+  "characters": [],
+  "storySkins": ["skins/jill-custom.json", "skins/barry-custom.json"],
+  "roomVisuals": []
+}

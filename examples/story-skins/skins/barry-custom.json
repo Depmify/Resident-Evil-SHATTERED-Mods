@@ -1,0 +1,15 @@
+{
+  "id": "yourname.story-skins.barry-custom",
+  "name": "Custom Survivor",
+  "description": "An experienced survivor. Always watching his partner's back.",
+  "target": "Barry",
+  "model": "models/barry-custom.pld",
+  "portrait": "portraits/barry-custom.png",
+  "voices": {
+    "inheritMissing": true,
+    "damage": ["voices/barry-damage.wav"],
+    "death": ["voices/barry-death.wav"],
+    "dodge": ["voices/barry-dodge.wav"],
+    "dodgeMode": "Default"
+  }
+}

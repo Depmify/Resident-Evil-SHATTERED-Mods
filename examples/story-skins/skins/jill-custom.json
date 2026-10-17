@@ -1,0 +1,12 @@
+{
+  "id": "yourname.story-skins.jill-custom",
+  "name": "Custom Heroine",
+  "description": "A determined survivor. Ready to face the mansion's horrors.",
+  "target": "Jill",
+  "model": "models/jill-custom.pld",
+  "portrait": "portraits/jill-custom.png",
+  "voices": {
+    "inheritMissing": true,
+    "dodgeMode": "Default"
+  }
+}

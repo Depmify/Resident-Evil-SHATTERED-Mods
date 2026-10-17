@@ -41,6 +41,9 @@ Each package must be **smaller than 2 GiB**, the GitHub Releases asset limit. Th
 
 ## Manifest and image
 
+For selectable Jill or Barry appearances, start with the
+[Story skin tutorial and JSON examples](examples/story-skins/README.md).
+
 Use the existing SHATTERED manifest format. Provide a meaningful name, author, description, version, categories, and a PNG preview referenced by the manifest and included in the ZIP. The preview must be noninterlaced, 8-bit PNG, no larger than **2048 × 2048** or **4 MiB**. A landscape image is recommended.
 
 `gameVersion` identifies the author's reference build and does not require an exact match. A compatible mod made for 0.1.6 does not need a new ZIP or version just because SHATTERED updates to 0.1.7 or later. Existing format 1 and 2 packages remain supported. Optional `compatibility.requires` entries identify specific feature contracts, such as `{ "capability": "story-skins", "version": 1 }`; most mods can omit them because the game derives requirements from their content. Missing capabilities, unsupported formats, invalid resources, and dependency problems still report concrete errors.
