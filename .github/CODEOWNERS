@@ -1,0 +1,4 @@
+# Code Owner review must be required in main's branch protection rules.
+* @Depmify
+/.github/ @Depmify
+/tooling/ @Depmify

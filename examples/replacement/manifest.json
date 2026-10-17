@@ -1,0 +1,15 @@
+{
+  "formatVersion": 1,
+  "id": "yourname.player-replacement",
+  "name": "Player Model Replacement",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "description": "A custom appearance for Chris. Credit the model's creators here.",
+  "categories": ["Models"],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [{ "target": "enemy/char10.emd", "source": "models/player.emd", "mode": "all" }],
+  "characters": [],
+  "storySkins": [],
+  "roomVisuals": []
+}

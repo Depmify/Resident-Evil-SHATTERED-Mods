@@ -1,0 +1,15 @@
+{
+  "formatVersion": 1,
+  "id": "yourname.survivor",
+  "name": "New Survivor",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "description": "Adds an original survivor to Tyrant Battle, with a model, portrait and action voices.",
+  "categories": ["Characters"],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [],
+  "characters": ["characters/survivor.json"],
+  "storySkins": [],
+  "roomVisuals": []
+}

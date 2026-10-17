@@ -1,0 +1,15 @@
+{
+  "formatVersion": 2,
+  "id": "yourname.hd-backgrounds",
+  "name": "HD Backgrounds",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "description": "HD backgrounds and matching foreground masks. Credit the image authors here.",
+  "categories": ["Backgrounds"],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [],
+  "characters": [],
+  "storySkins": [],
+  "roomVisuals": [{ "game": "re1", "layout": "teamx", "cameraSet": "original", "backgrounds": "hires/bgd", "masks": "hires/mask", "mode": "all" }]
+}

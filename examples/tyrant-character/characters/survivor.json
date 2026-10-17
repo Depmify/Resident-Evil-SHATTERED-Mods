@@ -1,0 +1,17 @@
+{
+  "id": "yourname.survivor.scout",
+  "name": "Scout",
+  "modes": ["tyrant-battle"],
+  "profile": "Chris",
+  "animationBank": "Male",
+  "model": "models/scout.pld",
+  "portrait": "portraits/scout.png",
+  "loadout": { "equippedSlot": 0, "slots": [{ "itemId": 2, "amount": 15 }, { "itemId": 11, "amount": 30 }] },
+  "voices": {
+    "inheritMissing": true,
+    "damage": ["voices/damage.wav"],
+    "grabFront": ["voices/grab-front.wav"],
+    "grabRear": ["voices/grab-rear.wav"],
+    "death": ["voices/death.wav"]
+  }
+}

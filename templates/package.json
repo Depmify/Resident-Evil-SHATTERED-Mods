@@ -1,0 +1,5 @@
+{
+  "url": "https://github.com/yourname/your-mod/releases/download/v1.0.0/YourMod.zip",
+  "sha256": "replace-with-the-64-character-lowercase-sha256-of-the-zip",
+  "size": 123456789
+}
