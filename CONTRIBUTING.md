@@ -41,7 +41,7 @@ Each package must be **smaller than 2 GiB**, the GitHub Releases asset limit. Th
 
 ## Manifest and image
 
-For selectable Jill or Barry appearances, start with the
+For selectable Jill, Barry, Chris or Rebecca appearances, start with the
 [Story skin tutorial and JSON examples](examples/story-skins/README.md).
 
 Use the existing SHATTERED manifest format. Provide a meaningful name, author, description, version, categories, and a PNG preview referenced by the manifest and included in the ZIP. The preview must be noninterlaced, 8-bit PNG, no larger than **2048 × 2048** or **4 MiB**. A landscape image is recommended.

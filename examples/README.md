@@ -14,13 +14,17 @@ Use `tyrant-character/manifest.json` and `tyrant-character/characters/survivor.j
 
 For RE2/RE3 player models, reference the native `.pld` in `model`. SHATTERED performs the supported adaptation; do not preconvert it merely to submit a mod. Use a tested 15-part compatible player model.
 
-## Story skins for Jill and Barry
+## Story skins for Jill, Barry, Chris and Rebecca
 
 Follow the [Story skin tutorial](story-skins/README.md). It includes a complete
-manifest and separate [Jill](story-skins/skins/jill-custom.json) and
-[Barry](story-skins/skins/barry-custom.json) definitions, including custom selector
+manifest and separate [Jill](story-skins/skins/jill-custom.json),
+[Barry](story-skins/skins/barry-custom.json), [Chris](story-skins/skins/chris-custom.json)
+and [Rebecca](story-skins/skins/rebecca-custom.json) definitions, including custom selector
 names and descriptions, models, portraits, action sounds and silent dodge audio.
 Skins remain cosmetic and keep their target's campaign inventory and animations.
+The Chris and Rebecca examples show numbered sound alternatives (1, 2) in the
+voice arrays. List every file explicitly; numbered filenames are not discovered
+automatically. The tutorial explains how to switch these skins in the selector.
 
 ## HD backgrounds
 

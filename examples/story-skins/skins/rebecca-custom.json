@@ -1,0 +1,15 @@
+{
+  "id": "yourname.story-skins.rebecca-custom",
+  "name": "Custom Rebecca",
+  "description": "The team's medic, ready to help.",
+  "target": "Rebecca",
+  "model": "models/rebecca-custom.pld",
+  "portrait": "portraits/rebecca-custom.png",
+  "voices": {
+    "inheritMissing": true,
+    "damage": ["voices/rebecca/damage-1.wav", "voices/rebecca/damage-2.wav"],
+    "grabFront": ["voices/rebecca/grab-front-1.wav", "voices/rebecca/grab-front-2.wav"],
+    "death": ["voices/rebecca/death-1.wav", "voices/rebecca/death-2.wav"],
+    "dodgeMode": "Silent"
+  }
+}

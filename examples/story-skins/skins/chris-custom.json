@@ -1,0 +1,17 @@
+{
+  "id": "yourname.story-skins.chris-custom",
+  "name": "Custom Chris",
+  "description": "A veteran ready for another rescue mission.",
+  "target": "Chris",
+  "model": "models/chris-custom.pld",
+  "portrait": "portraits/chris-custom.png",
+  "voices": {
+    "inheritMissing": true,
+    "damage": ["voices/chris/damage-1.wav", "voices/chris/damage-2.wav"],
+    "grabFront": ["voices/chris/grab-front-1.wav", "voices/chris/grab-front-2.wav"],
+    "grabRear": ["voices/chris/grab-rear-1.wav", "voices/chris/grab-rear-2.wav"],
+    "death": ["voices/chris/death-1.wav", "voices/chris/death-2.wav"],
+    "dodge": ["voices/chris/dodge-1.wav", "voices/chris/dodge-2.wav"],
+    "dodgeMode": "Default"
+  }
+}
