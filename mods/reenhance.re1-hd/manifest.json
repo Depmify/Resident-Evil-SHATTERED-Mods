@@ -1,0 +1,26 @@
+{
+  "formatVersion": 2,
+  "id": "reenhance.re1-hd",
+  "name": "Resident Evil RE:Enhance HD",
+  "author": "SonicB00M; Seamless HD Project Team; TEAMX; REscale; Dagon",
+  "version": "2.0",
+  "description": "RE:Enhance 2.0 HD backgrounds and foreground masks by SonicB00M for original RE1 PC camera angles. Includes the required Seamless HD Project and TEAMX background assets, so this package can be enabled on its own. Credits also include REscale and Dagon for source artwork. Two courtyard views without matching masks retain the original graphics.",
+  "categories": [
+    "Backgrounds",
+    "HD"
+  ],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [],
+  "characters": [],
+  "roomVisuals": [
+    {
+      "game": "re1",
+      "layout": "teamx",
+      "cameraSet": "original",
+      "backgrounds": "hires/bgd",
+      "masks": "hires/mask",
+      "mode": "all"
+    }
+  ]
+}

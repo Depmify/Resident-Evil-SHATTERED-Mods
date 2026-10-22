@@ -1,0 +1,26 @@
+{
+  "formatVersion": 2,
+  "id": "shdp.re1-hd",
+  "name": "Resident Evil Seamless HD Project",
+  "author": "Seamless HD Project Team; TEAMX",
+  "version": "1.1",
+  "description": "HD backgrounds and foreground masks from the Seamless HD Project 1.1 for original RE1 PC camera angles. Includes the required TEAMX background assets, so this package can be enabled on its own. Two courtyard views without matching masks retain the original graphics.",
+  "categories": [
+    "Backgrounds",
+    "HD"
+  ],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [],
+  "characters": [],
+  "roomVisuals": [
+    {
+      "game": "re1",
+      "layout": "teamx",
+      "cameraSet": "original",
+      "backgrounds": "hires/bgd",
+      "masks": "hires/mask",
+      "mode": "all"
+    }
+  ]
+}

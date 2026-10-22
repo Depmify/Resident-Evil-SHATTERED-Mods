@@ -1,0 +1,26 @@
+{
+  "formatVersion": 2,
+  "id": "teamx.re1-hd",
+  "name": "Resident Evil HD Mod (TeamX)",
+  "author": "TEAMX",
+  "version": "2022.8.31",
+  "description": "HD backgrounds and foreground masks by TEAMX for Resident Evil 1 original PC camera angles. Includes all 620 background images and 431 masks. Two alternate camera views retain original graphics because the original pack omits their matching masks. Packaged for Resident Evil: SHATTERED.",
+  "categories": [
+    "Backgrounds",
+    "HD"
+  ],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [],
+  "characters": [],
+  "roomVisuals": [
+    {
+      "game": "re1",
+      "layout": "teamx",
+      "cameraSet": "original",
+      "backgrounds": "hires/bgd",
+      "masks": "hires/mask",
+      "mode": "all"
+    }
+  ]
+}
