@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "id": "author.snipz.dario",
+  "name": "Dario",
+  "author": "Snipz",
+  "version": "1.0.0",
+  "description": "Replaces Barry with Dario and adds Dario Hurt Sounds.",
+  "compatibility": {
+    "requires": [
+      {
+        "capability": "story-skins",
+        "version": 1
+      }
+    ]
+  },
+  "categories": [
+    "Story Skins",
+    "Models"
+  ],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [
+  ],
+  "storySkins": [
+    "skins/dario.json"
+  ],
+  "characters": ["characters/scout.json"]
+}

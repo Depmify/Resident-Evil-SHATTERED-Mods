@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "id": "author.snipz.kevin",
+  "name": "Kevin",
+  "author": "Snipz, Rusty",
+  "version": "1.0.0",
+  "description": "Kevin skin for Barry and for Tyrant Battle.",
+  "compatibility": {
+    "requires": [
+      {
+        "capability": "story-skins",
+        "version": 1
+      }
+    ]
+  },
+  "categories": [
+    "Story Skins",
+    "Models"
+  ],
+  "preview": "preview.png",
+  "dependencies": [],
+  "overrides": [
+  ],
+  "storySkins": [
+    "skins/kevin.json"
+  ],
+  "characters": ["characters/scout.json"]
+}
